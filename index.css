@@ -405,11 +405,13 @@ body {
 }
 
 .project-card {
-    background: white;
+    background: rgb(245, 255, 247);
     border: 1px solid #e2e8f0;
     padding: 35px;
     border-radius: 18px;
     transition: 0.35s ease;
+    
+    
 }
 
 .project-card:hover {
@@ -423,11 +425,13 @@ body {
     font-size: 14px;
     font-weight: 900;
     margin-bottom: 30px;
+    
 }
 
 .project-card h3 {
     font-size: 24px;
     margin-bottom: 15px;
+    
 }
 
 .project-card p {
